@@ -16,7 +16,7 @@ public class BaseTest {
 	                String last = item[1];//这就是你要的数据了   
 	                //int value = Integer.parseInt(last);//如果是数值，可以转化为数值   
 	                sum=sum+Long.parseLong(last);
-	                System.out.println(last+"");    
+	                System.out.println(last+" ");    
 	            }    
 	        } catch (Exception e) {    
 	            e.printStackTrace();    
