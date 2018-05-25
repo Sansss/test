@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/async-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/golden-java-sdk-3.0.20.jar"/>
+	<classpathentry kind="lib" path="lib/interface-annotations-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/kudu-client-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/scala-parser-combinators_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
